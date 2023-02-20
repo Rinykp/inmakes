@@ -7,6 +7,7 @@ class RestApiClient
     private $cacheFile;
     private $cacheTimeout;
 
+    
     /**
      * Constructor method that takes the URL of the REST API as an argument.
      *
